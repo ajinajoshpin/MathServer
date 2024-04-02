@@ -134,12 +134,6 @@ urlpatterns = [
 ![Screenshot 2024-04-02 125012](https://github.com/ajinajoshpin/MathServer/assets/148514578/2243fda4-0a8f-4289-bfbe-b07c75069d7a)
 
 
-![Screenshot 2024-04-02 130326](https://github.com/ajinajoshpin/MathServer/assets/148514578/195882f7-8f76-4539-b14e-da8cdd374495)
-
-
-![Screenshot 2024-04-02 130259](https://github.com/ajinajoshpin/MathServer/assets/148514578/6a0a50b3-b76d-4d94-b45e-d64e3dd162ce)
-
-
 
 
 ## HOMEPAGE:

@@ -131,9 +131,11 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
+![Screenshot 2024-04-02 125012](https://github.com/ajinajoshpin/MathServer/assets/148514578/2243fda4-0a8f-4289-bfbe-b07c75069d7a)
 
 ## HOMEPAGE:
 
+![Screenshot 2024-04-02 124955](https://github.com/ajinajoshpin/MathServer/assets/148514578/43ec82b8-9218-4961-91ea-c4d7c643ce1a)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.

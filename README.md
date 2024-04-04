@@ -32,7 +32,6 @@ Publish the website in the given URL.
 ## PROGRAM :
 ## math.html
 ```
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,11 +92,9 @@ h1 {
 </div>
 </body>
 </html>
-
 ```
 ## views.py
 ```
-
 from django.shortcuts import render
 
 def surfacearea(request):
@@ -123,12 +120,9 @@ def surfacearea(request):
         print('Area =', area)
     
     return render(request, 'mathapp/math.html', context)
-
-
 ```
 ## urls.py
 ```
-
 from django.contrib import admin
 from django.urls import path
 from mathapp import views
@@ -139,16 +133,11 @@ urlpatterns = [
 ]
 ```
 
+
 ## SERVER SIDE PROCESSING:
 ![Screenshot 2024-04-04 133114](https://github.com/ajinajoshpin/MathServer/assets/148514578/46a8e8cf-8517-41bd-8b6d-3b8440a9333b)
-
-
-
-
 ## HOMEPAGE:
 ![Screenshot 2024-04-04 133130](https://github.com/ajinajoshpin/MathServer/assets/148514578/e20ec901-38de-4687-9fce-30b26705345e)
-
-
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
